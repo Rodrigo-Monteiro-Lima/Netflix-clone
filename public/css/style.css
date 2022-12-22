@@ -131,7 +131,7 @@ body{
 .next-btn{
   position: absolute;
   height: 200px;
-  top:50%;
+  top:70%;
   transform: translateY(-50%);
   width: 2.5vw;
   background: #181818;
